@@ -1,1 +1,3 @@
 Branch Restriction: Now Collaborators can merge to the master branch
+
+Branch protection rule created at admin for master branch
